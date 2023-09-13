@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(111, 185, 255);
+}
+
+header {
+    color: white;
+    text-align: center;
+
+}
+
+#inserir{
+    background-color: aliceblue;
+    border-radius: 15px;
+    padding: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: rgb(47, 0, 255) solid 2px;
+}
+
+#flista{
+    width: 250px;
+    
+}
+
+#res{
+    color: white;
+    font-size: 20px;
+
+}
